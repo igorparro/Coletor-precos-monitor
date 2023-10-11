@@ -1,0 +1,6 @@
+# Navegar até o site
+# Encontrar os titulos
+# Econtrar os preços
+# Encontrar o Link
+# Guardar em um arquivo CSV
+# Repetir em todas as páginas 
